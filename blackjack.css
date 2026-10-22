@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: rgb(8, 94, 8);
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+    margin-bottom: 20px;
+}
+
+#game-btn{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+button{
+    background-color: rgba(11, 235, 60, 0.548);
+    color: rgb(251, 253, 253);
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+}
+
+#start-btn{
+    padding: 10px;
+}
+
+#card-btn{
+    padding: 10px 16px 10px 16px;
+}
+
+#sum-el, #card-el{
+    margin: 10px 0 10px 0;
+}
